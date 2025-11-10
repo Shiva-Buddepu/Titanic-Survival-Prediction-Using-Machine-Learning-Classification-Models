@@ -49,7 +49,7 @@ The goal is to compare the performance of various classifiers and choose the bes
 
 ---
 
-## 🤖 Machine Learning Models Used
+## Machine Learning Models Used
 
 | Model | Description |
 |--------|-------------|
